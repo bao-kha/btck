@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Food Order Basic Kotlin</string>
     <string name="splash_text">Highly committed to quality products &amp; excellent services</string>
-    <string name="tincoder">TinCoder</string>
+    <string name="tincoder">Trần Việt Hoàng</string>
 
     // Tab Menu
     <string name="home">Đồ ăn</string>

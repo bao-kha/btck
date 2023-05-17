@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362481193232",
+    "firebase_url": "https://foodorder-edbbf-default-rtdb.firebaseio.com",
+    "project_id": "foodorder-edbbf",
+    "storage_bucket": "foodorder-edbbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362481193232:android:b6be895a0cdcf200369595",
+        "android_client_info": {
+          "package_name": "com.example.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362481193232-t1s7jdi1eh0dni4fjfdviglqf5e2iank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIty8RgSPGXUvl2B24w64QZ1BmsnlbY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362481193232-t1s7jdi1eh0dni4fjfdviglqf5e2iank.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
